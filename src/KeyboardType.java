@@ -1,0 +1,3 @@
+public enum KeyboardType {
+    MECHANICAL_KEYBOARD, TOUCH_KEYBOARD, BUTTERFLY_KEYBOARD
+}
